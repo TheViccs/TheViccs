@@ -30,7 +30,7 @@ I'm a Developer that i love write code to create software, each application have
 ## Lenguajes :mortar_board:
 <ol>
   <li>Spanish: Mother Tongue</li>
-  <li>English: Level B1 </li>
+  <li>English: Level B1 (oxford certification)</li>
 </ol>
 
 
