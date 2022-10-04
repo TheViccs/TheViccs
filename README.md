@@ -7,6 +7,6 @@ I'm a Developer that i love write code to create software, each application have
 - [Facebook](https://www.facebook.com/victor.98delrio)
 
 ### Skills
-![Java](https://img.shields.io/badge/dynamic/Java-0000FF?style=flat-square&logo=appveyor)
+![Java](https://img.shields.io/badge/Java-0000FF?style=flat-square&logo=appveyor)
 
 
