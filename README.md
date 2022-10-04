@@ -19,6 +19,9 @@ I'm a Developer that i love write code to create software, each application have
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=101010)]()</br>
 [![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
+https://img.shields.io/badge/play-station-blue.svg?logo=data:![image](https://user-images.githubusercontent.com/55817786/193914495-ca8421b8-1669-4151-8b21-a52cda140b6f.png)
+
+
 ## Front End
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
 [![HTML](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()</br>
