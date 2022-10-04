@@ -10,9 +10,11 @@ I'm a Developer that i love write code to create software, each application have
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Del_Rio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/v%C3%ADctor-del-r%C3%ADo-a21109214/)
 
+</br>
+[![Email](https://img.shields.io/badge/GMAIL-Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](victordelrio1411@gmail.com)
 
 
-### Skills
+### Skills :computer:
 
 ## Back-end
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=101010)]()</br>
@@ -25,5 +27,8 @@ I'm a Developer that i love write code to create software, each application have
 
 ## Data Bases
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
+
+## Lenguajes :mortar_board:
+
 
 
