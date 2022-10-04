@@ -8,6 +8,8 @@ I'm a Developer that i love write code to create software, each application have
 
 [![Instagram](https://img.shields.io/badge/Instagram-@victordelrior-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/victordelrior)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/v%C3%ADctor-del-r%C3%ADo-a21109214/)
+
 
 
 ### Skills
