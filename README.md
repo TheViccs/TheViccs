@@ -10,5 +10,6 @@ I'm a Developer that i love write code to create software, each application have
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
 [![HTML](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![css](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 
 
