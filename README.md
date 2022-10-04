@@ -28,6 +28,11 @@ I'm a Developer that i love write code to create software, each application have
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 
 ## Lenguajes :mortar_board:
+<ol>
+  <li>Spanish: Mother Tongue</li>
+  <li>English: Level B1 </li>
+</ol>
+
 
 
 
