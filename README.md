@@ -11,7 +11,7 @@ I'm a Developer that i love write code to create software, each application have
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Del_Rio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/v%C3%ADctor-del-r%C3%ADo-a21109214/)
 
 </br>
-![Email]((victordelrio1411@gmail.com)
+![Email](victordelrio1411@gmail.com)
 
 
 ### Skills :computer:
