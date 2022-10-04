@@ -25,7 +25,8 @@ I'm a Developer that i love write code to create software, each application have
 [![CSS](https://img.shields.io/badge/CSS-0a4fff?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()</br>
 
 ## Data Bases
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()</br>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Lenguajes :mortar_board:
 <ol>
