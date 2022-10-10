@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi Im Victor... 👋
 
-I'm a Developer that i love write code to create software, each application have the objective to solve a problem.
+I'm a Developer that i love witting code to create software, each application have the objective to solve a problem.
 
 ## Where to find me...
 
