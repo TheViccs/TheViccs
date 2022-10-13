@@ -20,7 +20,7 @@ I'm a Developer that i love witting code to create software, each application ha
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()</br>
 [![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()</br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
-[![Ruby](https://img.shields.io/badge/Ruby-F7DF1E?style=for-the-badge&logo=Ruby&logoColor=white&labelColor=cc0000)]()</br>
+[![Ruby](https://img.shields.io/badge/Ruby-cc0000?style=for-the-badge&logo=Ruby&logoColor=white&labelColor=101010)]()</br>
 [![HTML](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()</br>
 [![CSS](https://img.shields.io/badge/CSS-0a4fff?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()</br>
 
