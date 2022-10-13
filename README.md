@@ -15,7 +15,9 @@ I'm a Developer that i love witting code to create software, each application ha
 
 # Education :mortar_board:
 
+- Degree Systems Engineer - Data Mining Specialist
 - Bootcamp - Ruby on Rails (Beginner)
+- Udemy
 
 # Skills :computer:
 
