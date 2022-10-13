@@ -13,6 +13,9 @@ I'm a Developer that i love witting code to create software, each application ha
 - :email: Email: victordelrio1411@gmail.com
 - :email: Email: vicgo1444@hotmail.com
 
+# Education :mortar_board:
+
+- Bootcamp - Ruby on Rails (Beginner)
 
 # Skills :computer:
 
