@@ -15,7 +15,7 @@ I'm a Developer that i love witting code to create software, each application ha
 
 # Education :ok_hand:
 
-- Degree Systems Engineer - Data Mining Specialist
+- Degree Systems Engineer - Data Science Specialist
 - Bootcamp - Ruby on Rails (Beginner)
 - Udemy
 
