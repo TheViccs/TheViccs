@@ -36,7 +36,7 @@ I'm a Developer that i love witting code to create software, each application ha
 ## Lenguajes :mortar_board:
 <ol>
   <li>Spanish: Mother Tongue</li>
-  <li>English: Level B1 (oxford certification)</li>
+  <li>English: Level B1 (Oxford Certification)</li>
 </ol>
 
 
