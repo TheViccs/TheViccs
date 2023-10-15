@@ -19,6 +19,28 @@ I'm a Developer that i love witting code to create software, each application ha
 - Bootcamp - Ruby on Rails (Beginner)
 - Udemy
 
+# Expertise
+
+## SQA Analyst
+### SANMINA - Guadalajara Guadalajara - September/2023| In Progress
+Activities: Work with Agile methodology, analyze documentation to be able to create scenarios and from these generate test cases, report issues and know their life cycle, 
+identify the types of testing for projects, constant movement of projects, generate scripts to automate tests and use the different applications to manage the testing phases
+
+## Tester - QA
+### Tata Consultancy Services de México S.A. de C.V. -  Guadalajara Home office - September/2021 | September/2023
+Activities: Analyzing the needs of the client, creating interfaces for a website using JS, HTML, and CSS, and then implementing Selenium to test the application (Test automation).Use methodology agile.
+
+## Tester / QA - Tools
+<ol>
+  <li>JIRA</li>
+  <li>Application lifecycle management (ALM)</li>
+  <li>Mantis</li>
+  <li>Postman</li>
+  <li>Mantis</li>
+  <li>TestLink</li>
+  <li>Planview</li>
+</ol>
+
 # Skills :computer:
 
 ## Language Programming 
