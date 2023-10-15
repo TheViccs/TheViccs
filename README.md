@@ -1,6 +1,6 @@
 ### Hi Im Victor... 👋
 
-I'm a Developer that i love witting code to create software, each application have the objective to solve a problem.
+I am a SQA/Tester who likes solving technical problems, monitoring the software development phases and performing quality tests, both manual and automated.
 
 ## Where to find me...
 
@@ -11,7 +11,6 @@ I'm a Developer that i love witting code to create software, each application ha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Del_Rio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/v%C3%ADctor-del-r%C3%ADo-a21109214/)</br>
 
 - :email: Email: victordelrio1411@gmail.com
-- :email: Email: vicgo1444@hotmail.com
 
 # Education :ok_hand:
 
